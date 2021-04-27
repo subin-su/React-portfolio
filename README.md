@@ -13,5 +13,4 @@ npm install
 npm start
 ```
 # Deployed Link
-
-https://reactprofile123.herokuapp.com/
+https://react-por.herokuapp.com/projects
